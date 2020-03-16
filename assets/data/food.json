@@ -1,0 +1,20 @@
+{
+    "food": [
+        "BREAD", 
+        "BURGER",
+        "CHEESE",
+        "CORN",  
+        "CROISSANT",
+        "EGGS",  
+        "HAM",   
+        "MACARONI", 
+        "MEAT",  
+        "NOODLES",  
+        "PIZZA", 
+        "POTATOES", 
+        "RICE",  
+        "SAUSAGE",  
+        "SOUP",  
+        "SPAGHETTI"
+    ]
+}
